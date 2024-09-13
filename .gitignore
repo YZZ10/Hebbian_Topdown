@@ -1,0 +1,9 @@
+# Large dataset folders
+data
+
+# IDE files
+.idea/
+
+#Compiled python files
+*.pyc
+
